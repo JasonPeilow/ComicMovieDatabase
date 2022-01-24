@@ -7,4 +7,10 @@ These two questions sound similar, but they are significantly different. For exa
 
 Are superhero movies in the past, where the main protagonist is of a different ethnicity or gender, more or less successful than they are now?
 
-This is a reasonable question when you consider the uproar of gender or ethnicity swapped characters in the media, which has seen frequent publication in the media. The database is currently incomplete, but this is something that I am actively working on. 
+This is a reasonable question when you consider the uproar of gender or ethnicity swapped characters in the media, which has seen frequent publication in the media. The database is currently incomplete, but this is something that I am actively working on. The title and studio association has been colour coded as follows:
+
+1. Red = Marvel affiliated Distributions
+2. Blue = DC affiliated Distributions
+3. Green = Image affiliated Distributions
+4. Purple = Dark Horse affiliated Distributions
+5. White = Misc Distributions
